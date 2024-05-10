@@ -1,5 +1,3 @@
-wq---
-
 # DitherApp Readme
 
 ## CONTENTS
