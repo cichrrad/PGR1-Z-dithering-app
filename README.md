@@ -1,3 +1,5 @@
+*I promise (nor regret) nothing*
+
 # DitherApp Readme
 
 ## CONTENTS
